@@ -96,4 +96,4 @@ def home(username):
     return render_template("home.html", username=username)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", post = 3000)
+    app.run(debug=True)
