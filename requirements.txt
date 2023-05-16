@@ -1,5 +1,8 @@
+tensorflow
 Flask
-opencv-python
-face-recognition
+plotly
+yfinance
+pandas
+scikit-learn
+requests
 numpy
-dlib
